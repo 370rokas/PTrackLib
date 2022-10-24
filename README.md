@@ -10,7 +10,7 @@
 
 **License:** [MIT License](license.md)
 
-**Description:** A simple C++ chronometer library
+**Description:** A simple C++ chronometer library/wrapper using the <chrono> library
 
 ## 🔨 Dependencies
 ```shell
